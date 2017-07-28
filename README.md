@@ -1,5 +1,5 @@
-# GoCN web
-> GoCN forum frontend
+# GoBlogger web
+> GoBlogger forum frontend
 
 ### Structure
 

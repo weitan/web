@@ -1,7 +1,7 @@
 {
-  "name": "gocn",
+  "name": "goblogger",
   "version": "1.0.0",
-  "description": "web client for gocn",
+  "description": "web client for goblogger",
   "author": "luhuijian2013@gmail.com",
   "private": true,
   "scripts": {
