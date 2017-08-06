@@ -36,6 +36,8 @@ npm run docs
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [eslint rule](.eslintrc.js)
 * [code-style](docs/code-style.md)
+* [poi](https://poi.js.org/#/home)
+* [docsify](https://docsify.js.org/#/)
 
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
