@@ -1,0 +1,43 @@
+{
+  "name": "goblogger",
+  "version": "0.0.1",
+  "description": "web client for goblogger",
+  "author": "luhuijian2013@gmail.com",
+  "private": true,
+  "scripts": {
+    "dev": "poi",
+    "build": "poi build",
+    "docs": "docsify serve ./src/docs/ -o -p 1921"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "element-ui": "^1.4.1",
+    "vue": "^2.4.2",
+    "vue-router": "^2.7.0",
+    "vuex": "^2.3.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "config": "^1.26.1",
+    "docsify-cli": "^4.1.9",
+    "eslint": "^4.4.0",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-vue": "^2.1.0",
+    "js-yaml": "^3.9.1",
+    "node-sass": "^4.5.3",
+    "poi": "^9.1.8",
+    "poi-preset-eslint": "^9.0.0",
+    "sass-loader": "^6.0.6",
+    "webpack-cdn-plugin": "^1.4.2"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}

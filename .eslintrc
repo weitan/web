@@ -1,0 +1,20 @@
+{
+  "extends": ["airbnb-base"],
+  "globals": {
+    "Promise": true,
+    "window": true
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "jasmine": true
+  },
+  "parser": "babel-eslint",
+  "plugins": ["vue"],
+  "rules": {
+    "comma-dangle": 0,
+    "global-require": 0,
+    "import/no-unresolved": 0,
+    "import/extensions": 0
+  }
+}
