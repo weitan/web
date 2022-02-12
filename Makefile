@@ -2,7 +2,7 @@
 .PHONY: dist
 
 install:
-	@npm install --registry=https://registry.npm.taobao.org
+	@npm install --registry=https://registry.npmmirror.com
 
 dev: install
 	@npm run dev
